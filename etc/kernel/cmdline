@@ -1,1 +1,1 @@
-root=PARTUUID=f9ea3c0e-f5e3-4a2f-aea9-4256e10968c5 zswap.enabled=0 rootflags=subvol=@ rw rootfstype=btrfs quiet
+root=PARTUUID=a5fbc0ef-8e30-4397-a88d-1d04b7565986 zswap.enabled=0 rootflags=subvol=@ rw amd_iommu=on iommu=pt video=efifb:off vfio-pci.ids=1002:73ef,1002:ab28 rootfstype=btrfs systemd.machine_id=be6eb64cfeff4530b3a1427bc3ed1774
